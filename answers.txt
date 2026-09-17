@@ -16,4 +16,8 @@ a merge commit when necessary.  Rebasing moves commits from one branch onto
 another branch, creating a more linear history.  Merging preserves branch hist,
 rebasing creates a cleaner history.
 
+Q4: What are you looking forward to this semester?
 
+Answer: I have so much "real world" coding to learn and I feel like I'm finally
+getting that experience with this class.  I've been so lost trying to figure out
+Git in my internship this past summer, so I wish I could've taken this sooner!
