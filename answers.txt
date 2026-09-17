@@ -9,3 +9,11 @@ Answer: Data science can be applied to Sports. One example is to
 analyze player statistics in order to predict performace and improve 
 game strategies.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines changes from one branch into another and creates 
+a merge commit when necessary.  Rebasing moves commits from one branch onto 
+another branch, creating a more linear history.  Merging preserves branch hist,
+rebasing creates a cleaner history.
+
+
